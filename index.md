@@ -1,5 +1,7 @@
 ## Bem vindo ao Mulatation
 
+![Image of Mulatation Logo](https://nomul.github.com/nomul.github.io/muletation_logo.png)
+
 _„Calma que eu tô…’_
 
 _„Você está me atrapalhando…“_
