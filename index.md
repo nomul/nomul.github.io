@@ -1,6 +1,6 @@
 ## Bem vindo ao Mulatation
 
-![Image of Mulatation Logo](https://nomul.github.io/muletation_logo_small.png)
+![Image of Mulatation Logo](https://nomul.github.io/muletation_logo_small_v2.png)
 
 _„Calma que eu tô…’_
 
