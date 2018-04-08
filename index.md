@@ -14,11 +14,11 @@ _Muletation_ é um blog sobre as desculpas que as pessoas criam  que impedem o s
 
 ### Time
 
-🧝 *Cielle* cuida das ilustrações e das canções e poemas. Ativa no insta como @cieleofficiel.
+🧝 **Cielle** cuida das ilustrações e das canções e poemas. Ativa no insta como @cieleofficiel.
 
-🧙 *Fabio* publica suas historias e cuida do blog. Dá um alô pra ele no Twitter como @FabioRicardo. 
+🧙 **Fabio** publica suas historias e cuida do blog. Dá um alô pra ele no Twitter como @FabioRicardo. 
 
-👨 *Neto* conta as suas experiências através de seus posts. Você encontra o Neto no Face. 
+👨 **Neto** conta as suas experiências através de seus posts. Você encontra o Neto no Face. 
 
 
 ### Contato
