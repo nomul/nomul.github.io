@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Mulatation
 
-You can use the [editor on GitHub](https://github.com/nomul/nomul.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_„Calma que eu tô…’_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_„Você está me atrapalhando…“_
 
-### Markdown
+Reconheceu essas frases? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aqui você encontra relatos de como nós se esforçamos para chutar as *muletas* das nossas vidas. 
 
-```markdown
-Syntax highlighted code block
+_Muletation_ é um blog sobre as desculpas que as pessoas criam  que impedem o seu desenvolvimento pessoal.
 
-# Header 1
-## Header 2
-### Header 3
+### Time
 
-- Bulleted
-- List
+Cielle cuida das ilustrações e das canções e poemas. Ativa no insta como @cieleofficiel.
+Fabio publica suas historias e cuida do blog. Dá um alô pra ele no Twitter (@FabioRicardo) 
+Neto conta as suas experiências através de seus posts. Você encontra o Neto no Face. 
 
-1. Numbered
-2. List
+### Contato
+Quer contar pra gente como você se livrou de suas muletas? Envie um email pra gente e inicie o bate papo. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nomul/nomul.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_„Deus, livrai-nos das muletas de nossas vidas“_
