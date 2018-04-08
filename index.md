@@ -10,7 +10,7 @@ Reconheceu essas frases?
 
 Aqui você encontra relatos de como nós se esforçamos para chutar as *muletas* das nossas vidas. 
 
-_Muletation_ é um blog sobre as desculpas que as pessoas criam  que impedem o seu desenvolvimento pessoal.
+_Muletation_ (pronúncia em português muleteixon) é um blog sobre as desculpas que as pessoas criam  que impedem o seu desenvolvimento pessoal.
 
 ### Time
 
