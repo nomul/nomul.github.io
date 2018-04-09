@@ -16,9 +16,9 @@ _Muletation_ (pronúncia em português muleteixon) é um blog sobre as desculpas
 
 🧝 **Cielle** cuida das ilustrações e das canções e poemas. Ativa no insta como @cieleofficiel.
 
-🧙 **Fabio** publica suas historias e cuida do blog. Dá um alô pra ele no Twitter como @FabioRicardo. 
+🧙 **Fabio** publica suas historias e cuida do blog. Dá um alô pra ele no Twitter @FabioRicardo. 
 
-👨 **Neto** conta as suas experiências através de seus posts. Você encontra o Neto no Face. 
+👨 **Neto** conta as suas experiências através de seus posts. Você encontra o Neto no Face como Inebriante. 
 
 
 ### Contato
